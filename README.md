@@ -1,6 +1,3 @@
-Group Project - README Template
-===
-
 # Cookbook
 
 ## Table of Contents
@@ -11,7 +8,7 @@ Group Project - README Template
 
 ## Overview
 ### Description
-[Description of your app]
+* Cookbook is an iOS application designed to store personal recipes.
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
