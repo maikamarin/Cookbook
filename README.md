@@ -78,8 +78,7 @@
 
 ### [BONUS] Digital Wireframes & Mockups
 
-### [BONUS] Interactive Prototype
-
+### [BONUS] xcode_cookbook_prototype.mp4
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
